@@ -1,4 +1,6 @@
-### Hi there 👋
+### <h1>Hi there 👋</h1>
+
+<div class="tenor-gif-embed" data-postid="5736733" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/money-computer-nerd-typing-programming-gif-5736733">Money Computer GIF</a>from <a href="https://tenor.com/search/money-gifs">Money GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!--
 **ScriptMonrad/ScriptMonrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
