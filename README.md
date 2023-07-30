@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<img align="left" src="https://media.tenor.com/h-EStaz3aLEAAAAC/money-computer.gif">
+<img align="left" src="https://media.tenor.com/h-EStaz3aLEAAAAC/money-computer.gif" alt="office-programmer">
 
 <!--
 **ScriptMonrad/ScriptMonrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
