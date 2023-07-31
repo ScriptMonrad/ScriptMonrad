@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<img align="left" width="520px" src="https://media.tenor.com/h-EStaz3aLEAAAAC/money-computer.gif" alt="office-programmer">
+<img align="left" width="450px" src="https://media.tenor.com/h-EStaz3aLEAAAAC/money-computer.gif" alt="office-programmer">
 <br>
 <p>- 🔭 I’m currently working on creation and layout of websites.</p>
 
